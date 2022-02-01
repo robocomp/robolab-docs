@@ -1,5 +1,7 @@
 # RoboLab — Robotics, Artificial Vision and Building Laboratory
 
+![RoboLab logo](logo.png)
+
 ## Projects
 
 [RoboComp](robocomp/README)

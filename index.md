@@ -5,7 +5,7 @@
 [RoboComp](robocomp/README)
 :	Robotics framework providing the tools to create and modify software components that communicate through public interfaces.
 
-[CORTEX]() %{TODO}
+[CORTEX]()
 :	A series of architectural designs around the simple idea of a group of agents that share a distributed, dynamic representation acting as a working memory.
 
 [LearnBlock](LearnBlock/README)

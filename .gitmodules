@@ -1,3 +1,6 @@
 [submodule "robocomp"]
 	path = robocomp
 	url = https://github.com/robocomp/robocomp
+[submodule "LearnBlock"]
+	path = LearnBlock
+	url = https://github.com/robocomp/LearnBlock

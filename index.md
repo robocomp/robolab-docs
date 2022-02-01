@@ -2,6 +2,14 @@
 
 ![RoboLab logo](logo.png)
 
+---
+
+[Resources](resources/README)
+:	Useful information to learn about important concepts needed for working with our frameworks.
+
+[Frequently Asked Questions](faq/README)
+:	Answers to some frequent questions and common pitfalls you may experience.
+
 ## Projects
 
 [RoboComp](robocomp/README)
@@ -12,14 +20,3 @@
 
 [LearnBlock](LearnBlock/README)
 :	Educational programming tool for learning programming, designed to facilitate the learning process starting with a visual programming language and progressing towards a professional programming language.
-
-## Resources
-
-[Tutorials](tutorials/README)
-:	Step-by-step guides through our projects.
-
-[Resources](resources/README)
-:	Useful information to learn about important concepts needed for working with our frameworks.
-
-[Frequently Asked Questions](faq/README)
-:	Answers to some frequent questions and common pitfalls you may experience.

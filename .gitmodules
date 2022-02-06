@@ -4,3 +4,6 @@
 [submodule "LearnBlock"]
 	path = LearnBlock
 	url = https://github.com/robocomp/LearnBlock
+[submodule "cortex"]
+	path = cortex
+	url = https://github.com/robocomp/cortex

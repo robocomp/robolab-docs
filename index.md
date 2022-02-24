@@ -20,3 +20,12 @@
 
 [LearnBlock](LearnBlock/README)
 :	Educational programming tool for learning programming, designed to facilitate the learning process starting with a visual programming language and progressing towards a professional programming language.
+
+```{toctree}
+:maxdepth: 2
+:caption: Projects
+:hidden:
+robocomp/README
+cortex/README
+LearnBlock/README
+```

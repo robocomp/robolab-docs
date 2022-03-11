@@ -1,9 +1,12 @@
 [submodule "robocomp"]
 	path = robocomp
 	url = https://github.com/robocomp/robocomp
+	branch = development
 [submodule "LearnBlock"]
 	path = LearnBlock
 	url = https://github.com/robocomp/LearnBlock
+	branch = version-3
 [submodule "cortex"]
 	path = cortex
 	url = https://github.com/robocomp/cortex
+	branch = development
